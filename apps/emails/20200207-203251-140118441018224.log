@@ -1,0 +1,13 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: beksasiveev@gmail.com
+Date: Fri, 07 Feb 2020 14:32:51 -0000
+Message-ID: 
+ <158108597148.10310.9437860138609088384@beks-VivoBook-ASUSLaptop-X530FN-S530FN>
+
+Для сброся пароля beksasiveev@gmail.com. Следуйте инструкциям
+http:://127.0.0.1:8000/accounts/reset/MQ/5ds-44b3ab2880ca0ebc4b65/
+-------------------------------------------------------------------------------
